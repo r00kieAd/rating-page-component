@@ -42,5 +42,5 @@ Users will be able to:
 
 ## Author
 
-- [Adhyatma Dwivedi](personal-site-r00kiead.vercel.app)
+- [Adhyatma Dwivedi](https://personal-site-tau-ashy.vercel.app)
 
