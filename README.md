@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Git Repo](https://your-solution-url.com)
-- Live Site URL: [Open Webpage]([https://your-live-site-url.com](https://r00kiead.github.io/rating-page-component/))
+- Solution URL: [Git Repo](https://github.com/r00kieAd/rating-page-component)
+- Live Site URL: [Open Webpage](https://r00kiead.github.io/rating-page-component/)
 
 ### Built with
 
