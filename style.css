@@ -119,3 +119,10 @@ button {
     margin: 15px 10px;
     color: hsl(217, 12%, 63%);
 }
+
+@media screen and (max-width: 500px){
+    #main {
+        width: 20rem;
+        height: auto;
+    }
+}
